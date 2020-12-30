@@ -4,7 +4,6 @@
   "description": "The Book of the Law shall not depart from your mouth.\nThis is a simple bible verse app that displays random verses from the bible.",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://Michael-Seth.github.io/Bible-App",
   "dependencies": {
     "axios": "0.21.1",
     "react": "17.0.0",
